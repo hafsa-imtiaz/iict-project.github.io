@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+
+footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+hr {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
